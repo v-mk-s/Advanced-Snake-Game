@@ -1,0 +1,4 @@
+﻿  22-Snake.cpp
+22-Snake.cpp(309): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  22-Snake.vcxproj -> C:\Users\Vladik\Documents\Programming\programs\0_My_programs\00-Big_Projects\1-Games\22-Snake\Release\22-Snake.exe
+  22-Snake.vcxproj -> C:\Users\Vladik\Documents\Programming\programs\0_My_programs\00-Big_Projects\1-Games\22-Snake\Release\22-Snake.pdb (Full PDB)
