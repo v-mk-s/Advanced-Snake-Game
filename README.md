@@ -18,15 +18,15 @@ Added delights like rockets and bombs)
 Different versions of game can be found [there](https://github.com/v-mk-s/Advanced-Snake-Game/tree/master/22_Snake/1-All_versions)
 
 ## About Game
-* Main menu
+* main menu
 
 ![image](https://user-images.githubusercontent.com/32800793/155964918-217e8556-0bfe-4c50-9890-51245a8fa94c.png)
 
-* Main menu
+* mode selection
 
 ![image](https://user-images.githubusercontent.com/32800793/155964368-8ab3246c-f320-474c-acff-a6e196fdb3fc.png)
 
-* Main menu
+* battlefield)
 
 ![image](https://user-images.githubusercontent.com/32800793/155964597-498e3f32-11c2-41c8-b40c-1f3c3a3f93fd.png)
 
