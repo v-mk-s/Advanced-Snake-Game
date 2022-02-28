@@ -23,3 +23,7 @@ Players in two teams perform various quests on a common map. Quests bring resour
 ![image](https://user-images.githubusercontent.com/32800793/155964597-498e3f32-11c2-41c8-b40c-1f3c3a3f93fd.png)
 
 ![image](https://user-images.githubusercontent.com/32800793/155964773-7ad28146-2e8e-4d8e-9fe3-47569cbb9378.png)
+
+![image](https://user-images.githubusercontent.com/32800793/155965017-2d729566-0af9-4eeb-b892-37514bc0e7c8.png)
+
+![image](https://user-images.githubusercontent.com/32800793/155965219-7c31a093-2c64-4de3-8ff9-36e797225af0.png)
