@@ -2,7 +2,9 @@
 💻🎮 Modern Snake С++ Multiplayer Game
 
 **Description:**
-Players in two teams perform various quests on a common map. Quests bring resources that players must spend on character upgrades and building a ship. Resources are limited in such a way that only one ship can be built. The team that first boards the ship or cuts out all the opponents wins. You can fight with the enemy and interfere with quests. If a player is killed - he will respawn after a while at his team base.
+There is a reimagining of the Сlassic Snake game. You can play against a computer or a human.
+There are different modes: classic, advanced, time, custom, etc.
+Added delights like rockets and bombs)
 
 ![image](https://user-images.githubusercontent.com/32800793/155964918-217e8556-0bfe-4c50-9890-51245a8fa94c.png)
 
