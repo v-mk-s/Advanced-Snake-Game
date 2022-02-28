@@ -32,10 +32,10 @@ Different versions of game can be found [there](https://github.com/v-mk-s/Advanc
 
 ## Console alpha build
 
-* Main menu
+* console main menu
 
 ![image](https://user-images.githubusercontent.com/32800793/155965017-2d729566-0af9-4eeb-b892-37514bc0e7c8.png)
 
-* Main menu
+* console battlefield)
 
 ![image](https://user-images.githubusercontent.com/32800793/155965219-7c31a093-2c64-4de3-8ff9-36e797225af0.png)
